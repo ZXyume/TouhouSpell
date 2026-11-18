@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_danmaku_orb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "touhou_spell:danmaku_upgrade_orb"
+            ]
+          }
+        ]
+      }
+    },
+    "has_grimoire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "touhou_spell:danmaku_grimoire"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_danmaku_orb",
+      "has_grimoire"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "touhou_spell:danmaku_grimoire"
+    ]
+  }
+}

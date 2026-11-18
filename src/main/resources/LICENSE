@@ -1,0 +1,48 @@
+touhou spell (Touhou Spell)
+Copyright (c) 2026 zxyume. All rights reserved.
+License v1.1 (2026-11)
+
+This is a custom "All Rights Reserved" license.
+It is NOT an OSI-approved open-source license.
+
+1. Allowed without asking
+   a. Playing the mod, in single player or on servers.
+   b. Redistributing the UNMODIFIED mod jar (byte-identical) inside a modpack,
+      free or paid, as long as this notice stays intact and the mod is not the
+      main paid content of that pack.
+   c. Private, non-distributed modifications for your own use.
+   d. Videos, streams, screenshots and articles about the mod.
+
+2. Not allowed without written permission from the author
+   a. Selling the mod on its own, or behind a paywall / paid download.
+   b. Reuploading the mod jar to another file host (beyond 1.b).
+   c. Distributing modified versions, or addons that bundle the mod,
+      or decompiled / derived source code.
+   d. Using the mod's name, icon or assets in a way that suggests an
+      official release.
+
+3. Source code
+   The source code in this repository is published for reference and auditing
+   only; it is itself reconstructed from the released jar. Except as allowed
+   in section 1, you may not reuse, redistribute or build derivative works
+   from it.
+
+4. No warranty
+   The mod is provided "as is", without warranty of any kind. The author is
+   not liable for any damage caused by its use, including loss of world or
+   save data.
+
+5. Termination
+   Any violation of these terms ends your rights under this license.
+
+6. Permission requests
+   Contact the author via GitHub Issues on the project page.
+
+Third party notices
+  * Minecraft is (c) Mojang Studios / Microsoft. This mod is not affiliated
+    with or endorsed by Mojang or Microsoft; use of Minecraft is subject to
+    the Minecraft EULA.
+  * Touhou Project and its characters are (c) Team Shanghai Alice / ZUN.
+  * This mod REQUIRES other mods (Iron's Spells 'n Spellbooks, Youkais'
+    Homecoming, Curios, GeckoLib, Touhou Little Maid). Those mods are NOT
+    redistributed by this project and remain under their own licenses.

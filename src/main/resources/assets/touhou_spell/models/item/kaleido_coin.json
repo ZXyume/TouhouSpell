@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "touhou_spell:item/kaleido_coin_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "touhou_spell:item/kaleido_coin_item"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "size": 1,
+  "order": 250,
+  "icon": "touhou_spell:slot/spell_card",
+  "validators": ["curios:tag"],
+  "add_cosmetic": false
+}

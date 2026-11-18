@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "textures": {
+      "book": "touhou_spell:item/spell_book_models/danmaku_grimoire",
+      "particle": "touhou_spell:item/spell_book_models/danmaku_grimoire"
+    },
+    "parent": "irons_spellbooks:item/template_spell_book_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "touhou_spell:item/danmaku_grimoire"
+      }
+    },
+    "head": {
+      "textures": {
+        "book": "touhou_spell:item/spell_book_models/danmaku_grimoire",
+        "particle": "touhou_spell:item/spell_book_models/danmaku_grimoire"
+      },
+      "parent": "irons_spellbooks:item/template_spell_book_model_open"
+    }
+  }
+}

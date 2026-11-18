@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "O  ",
+    "PS ",
+    "P S"
+  ],
+  "key": {
+    "O": {
+      "item": "touhou_spell:danmaku_upgrade_orb"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "touhou_spell:kaleido_coin"
+  }
+}

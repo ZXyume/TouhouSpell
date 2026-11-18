@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_danmaku_orb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "touhou_spell:danmaku_upgrade_orb"
+            ]
+          }
+        ]
+      }
+    },
+    "has_kaleido_coin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "touhou_spell:kaleido_coin"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_danmaku_orb",
+      "has_kaleido_coin"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "touhou_spell:kaleido_coin"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_danmaku_orb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "touhou_spell:danmaku_upgrade_orb"
+            ]
+          }
+        ]
+      }
+    },
+    "has_this_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "touhou_spell:maid_chestplate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_danmaku_orb",
+      "has_this_item"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "touhou_spell:maid_chestplate_smithing"
+    ]
+  }
+}

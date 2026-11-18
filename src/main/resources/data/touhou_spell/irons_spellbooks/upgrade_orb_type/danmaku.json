@@ -1,0 +1,5 @@
+{
+  "amount": 0.05,
+  "attribute": "touhou_spell:danmaku_spell_power",
+  "operation": "MULTIPLY_BASE"
+}

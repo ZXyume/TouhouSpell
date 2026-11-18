@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PPP",
+    "PBP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "touhou_little_maid:power_point"
+    },
+    "B": {
+      "item": "irons_spellbooks:upgrade_orb"
+    }
+  },
+  "result": {
+    "item": "touhou_spell:danmaku_upgrade_orb",
+    "count": 1
+  }
+}
