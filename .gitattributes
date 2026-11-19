@@ -1,0 +1,5 @@
+# 统一换行，但不改动 .ps1 的字节（需要 UTF-8 BOM + CRLF）
+* text=auto
+*.ps1 -text
+*.png binary
+*.jar binary

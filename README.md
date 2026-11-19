@@ -1,6 +1,6 @@
-# Touhou Spell（万花币 · 弹幕学）
+# [TS] 东方法术：弹幕（Touhou Spell: Danmaku）
 
-一个面向 **Minecraft 1.20.1 / Forge 47** 的东方风格弹幕模组：以「万花币」法杖为媒介，把 IRONS SPELLS 'N SPELLBOOKS 的法术体系与
+**东方法术：弹幕**（英文名 Touhou Spell: Danmaku，缩写 [TS]）是一个面向 **Minecraft 1.20.1 / Forge 47** 的东方风格弹幕模组：以「万花币」法杖为媒介，把 IRONS SPELLS 'N SPELLBOOKS 的法术体系与
 「妖怪们的归家」的弹幕实体结合起来，做出**蓄力齐射、子机环绕、长激光**的手感。
 
 > 本仓库是**源码仓库**（源码由发布版 jar 反编译后重建，仍使用 SRG 名），构建方式见下文「如何构建」。

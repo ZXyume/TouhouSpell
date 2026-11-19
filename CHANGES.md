@@ -1,4 +1,4 @@
-# Touhou Spell 1.0.0
+# 东方法术：弹幕（Touhou Spell: Danmaku）1.0.0
 
 首个发行版。
 
